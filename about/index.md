@@ -4,12 +4,13 @@ title: About
 shownav: true
 ---
 
-I am an MA student in Visual and Media Anthropology at the Freie Universitaet Berlin. My current research is focused on the way that noncitizen youth use media for political participation. <a href="http://photos.brunomarinho.com" target="_blank">Amateur Photographer</a> and <a href="/writing">Writer</a>. Born and raised in a small paradise called <a href="http://en.wikipedia.org/wiki/Angra_dos_Reis" target="_blank">Angra dos Reis</a> in the Rio de Janeiro, Brazil.
+I am an MA student in Visual and Media Anthropology at the Freie Universitaet Berlin. I was born in Germany, raised in Kentucky, and spent several years living in Turkey (Istanbul, Kayseri, and Ankara). My current research is focused on the way that noncitizen youth use media for political participation.
 
-Currently helping <a href="http://www.trycelery.com" target="_blank">Celery</a> in the big mission of disrupt the future of crowdfunding. Trying to get a US Work Visa (Should probably do some voodoo next year). Doing remote work from in Rio and often travelling to San Francisco.
+Outside of academics, I am a lover of libraries and oil painting. 
 
-A Chemex and Espresso lover. Used to be a drummer of a Brazilian pop/rock band but now only playing air drums.
+This site is a place for thoughts, ideas, projects, readings, and collaborations. Please get in touch if you would like to work together. 
 
-Visit my <a href="www.linkedin.com/in/brunomarinho" target="_blank">Linkedin</a> to know a bit more about my career as a designer.
+Visit my <a href="www.linkedin.com/in/joannathompson5/" target="_blank">Linkedin</a> for more information about my academic and occupational background. 
+
 
 
